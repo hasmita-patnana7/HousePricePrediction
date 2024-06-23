@@ -1,5 +1,7 @@
 # HousePricePrediction
 
+<img width="958" alt="Price Prediction Website" src="https://github.com/hasmita-patnana7/HousePricePrediction/assets/148422141/28446528-dc08-4357-8985-3d9bdb3b5e7a">
+
 ## Project Overview
 
 This project demonstrates the end-to-end process of building a real estate price prediction website. It involves creating a machine learning model using the Bangalore home prices dataset, deploying a Flask-based server to handle HTTP requests, and building a user interface with HTML, CSS, and JavaScript. The project covers key data science concepts such as data cleaning, outlier detection, feature engineering, dimensionality reduction, hyperparameter tuning with GridSearchCV, and cross-validation.
