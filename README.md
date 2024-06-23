@@ -1,5 +1,4 @@
 # HousePricePrediction
-# Real Estate Price Prediction Website
 
 ## Project Overview
 
@@ -64,10 +63,3 @@ I completed this project as part of learning machine learning from the YouTube c
 2. **Connect to Instance**:
    ```bash
    ssh -i "path_to_key.pem" ubuntu@ec2-instance-public-dns
-   
-# Nginx Setup
-
-## Install Nginx:
-```bash
-sudo apt-get update
-sudo apt-get install nginx
